@@ -3,6 +3,9 @@ import tkinter as tk
 class Example(tk.Frame):
     def __init__(self, parent):        
         frame = tk.Frame.__init__(self, parent)
+        frame2 = tk.Frame.__init__(self, parent)
+
+        self.frame2.pack(side="right", pady=15, padx=10)
 
         # create a canvas and parameters
         self.canvas = tk.Canvas(root)
@@ -26,6 +29,8 @@ class Example(tk.Frame):
         self.deleteButton.config( height = 2, width = 10 )
         self.deleteButton.place(x=5, y=50)
         self.deleteButton.state = True
+
+
 
 
         # on mouse click create a point
