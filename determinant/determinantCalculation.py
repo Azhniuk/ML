@@ -33,7 +33,7 @@ class Example(tk.Frame):
 
 
 
-        # on mouse click create a point
+        
        # self.canvas.bind("", lambda event: self.createPoint(event.x, event.y))
         
 
