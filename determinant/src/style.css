@@ -1,0 +1,9 @@
+.center {
+    width: 50%;
+    border: 2px solid rgba(43, 125, 165, 0.36);
+    color: rgba(11, 37, 50, 0.781);
+    padding: 20px;
+    margin:20px;
+    text-align: center;
+    border-radius: 7px;
+  }
