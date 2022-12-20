@@ -7,3 +7,22 @@
     text-align: center;
     border-radius: 7px;
   }
+
+button{
+  background-color:  #1E96C8 ;
+  border-radius: .5rem;
+  color: #FFFFFF;
+  font-size: 16px;
+  padding:7px;
+  border: 1px;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+button:hover {
+  color: #37AEE2;
+  background-color: #e4f6fd;
+  border: 1px;
+}
+
+
