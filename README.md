@@ -5,5 +5,6 @@
 <li> 18.12 - 1/6 determinant calculation <strong> continue </strong>
 <li> 20.12-24.12 DataCamp - Understanding Machine Learning
 <li> 28-12 Practical Python for AI Coding 1 (Korea Advanced Institute of Science and Technology(KAIST))  ---https://www.coursera.org/---
+<li> 30-12 - Number recognition program (https://www.youtube.com/watch?v=w8yWXqWQYmU)
 </ul>
 
