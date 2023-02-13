@@ -1,4 +1,4 @@
- Help ***4 ## Study plan:
+ Help ***5 ## Study plan:
 ### December - January
 <ul>
 <li> 14.12-23.12    "LEARNING MACHINE LEARNING A Hands-On Introduction to Math, Stats, and Machine Learning" - bmc <strong>book</strong>
@@ -14,4 +14,5 @@ ____________________
 
 <strong>Results</strong><br>
 <a href = "https://www.youtube.com/watch?v=en1Vy0UMdws"> Contour Recognition</a>
+Keras
 
