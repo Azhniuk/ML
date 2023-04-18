@@ -4,7 +4,7 @@
 	<loc>https://shop.glass-express.ua/</loc>
 	<changefreq>weekly</changefreq>
 	<priority>1</priority>
-	<lastmod>2023-04-05</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/klienty-o-nas</loc>
@@ -193,10 +193,10 @@
 	<lastmod>2023-03-06</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/fusion-2012-2019</loc>
+	<loc>https://shop.glass-express.ua/fusion-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2023-03-06</lastmod>
+	<lastmod>2023-04-06</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ulysse-1994-2002</loc>
@@ -757,6 +757,12 @@
 	<lastmod>2023-03-08</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/k5-2011-2015</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/insight-2009-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -769,10 +775,22 @@
 	<lastmod>2023-03-16</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/magentis-2001-2006</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/jazz-2001-2008</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-03-08</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/optima-2011-2015</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/pilot-2008-2015</loc>
@@ -791,6 +809,72 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-03-08</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/picanto-2004-2011</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/pro-ceed-2012-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/pro-ceed</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/pro-ceed-2007-2012</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/rio-hb-2011-2017</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/rio-2000-2005</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/sorento-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/sorento-2002-2009</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/sportage-ql-2015-2021</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/sportage-k00-1995-2003</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/stonic-2017</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/scudo</loc>
@@ -892,7 +976,7 @@
 	<loc>https://shop.glass-express.ua/ford-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/cargo</loc>
@@ -910,7 +994,7 @@
 	<loc>https://shop.glass-express.ua/ford</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/c-max</loc>
@@ -1069,10 +1153,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/fusion-2019</loc>
+	<loc>https://shop.glass-express.ua/fusion-2012-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2023-03-06</lastmod>
+	<lastmod>2023-04-06</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/galaxy</loc>
@@ -1234,7 +1318,7 @@
 	<loc>https://shop.glass-express.ua/foton</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/bj1043-1049</loc>
@@ -1252,7 +1336,7 @@
 	<loc>https://shop.glass-express.ua/geely</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ck-ck2</loc>
@@ -1336,7 +1420,7 @@
 	<loc>https://shop.glass-express.ua/gmc</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/terrain</loc>
@@ -1348,7 +1432,7 @@
 	<loc>https://shop.glass-express.ua/great-wall</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/hover</loc>
@@ -1396,7 +1480,7 @@
 	<loc>https://shop.glass-express.ua/honda</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/accord</loc>
@@ -1630,7 +1714,7 @@
 	<loc>https://shop.glass-express.ua/hyundai</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/accent</loc>
@@ -1906,7 +1990,7 @@
 	<loc>https://shop.glass-express.ua/infiniti</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ex</loc>
@@ -2008,7 +2092,7 @@
 	<loc>https://shop.glass-express.ua/isuzu</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/nkr-nhr</loc>
@@ -2032,7 +2116,7 @@
 	<loc>https://shop.glass-express.ua/iveco</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/daily</loc>
@@ -2080,7 +2164,7 @@
 	<loc>https://shop.glass-express.ua/jaguar</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/e-pace</loc>
@@ -2110,7 +2194,7 @@
 	<loc>https://shop.glass-express.ua/jeep</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/cherokee</loc>
@@ -2194,19 +2278,19 @@
 	<loc>https://shop.glass-express.ua/kia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/cadenza</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/carens</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/carens-2013</loc>
@@ -2218,13 +2302,13 @@
 	<loc>https://shop.glass-express.ua/carnival</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ceed</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ceed-2012-2018</loc>
@@ -2236,7 +2320,7 @@
 	<loc>https://shop.glass-express.ua/cerato-koup</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/cerato-koup-2009-2012</loc>
@@ -2248,7 +2332,7 @@
 	<loc>https://shop.glass-express.ua/cerato</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/cerato-2013-2018</loc>
@@ -2272,7 +2356,7 @@
 	<loc>https://shop.glass-express.ua/clarus</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/clarus-i-1996-2001</loc>
@@ -2284,7 +2368,7 @@
 	<loc>https://shop.glass-express.ua/forte</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/forte-2013-2016</loc>
@@ -2302,37 +2386,19 @@
 	<loc>https://shop.glass-express.ua/k5</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/k5-2011-2013</loc>
+	<loc>https://shop.glass-express.ua/k5-2016-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/k5-2013-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/k5-2016-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/k5-2018-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/k7</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/k7-2016-2019</loc>
@@ -2344,43 +2410,37 @@
 	<loc>https://shop.glass-express.ua/magentis</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/magentis-2003-2006</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/magentis-2006-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/magentis-2009-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/magentis-2006-2008</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/mohave</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/mohave-2008-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/niro</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/niro-2016</loc>
@@ -2392,61 +2452,31 @@
 	<loc>https://shop.glass-express.ua/optima</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/optima-2011-2013</loc>
+	<loc>https://shop.glass-express.ua/optima-2016-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/optima-2013-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/optima-2016-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/optima-2018-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/picanto</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/picanto-2004-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/picanto-2008-2011</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/picanto-2011-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/pregio</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/pregio-1997-2006</loc>
@@ -2455,100 +2485,40 @@
 	<lastmod>2022-01-19</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/pro-ceed</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/pro-ceed-2007-2009</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/pro-ceed-2009-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/pro-ceed-2012-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/pro-ceed-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/pro-ceed-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
 	<loc>https://shop.glass-express.ua/rio</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rio-2000-2005</loc>
+	<loc>https://shop.glass-express.ua/rio-hb-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rio-2006-2008</loc>
+	<loc>https://shop.glass-express.ua/rio-sdn-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rio-2009-2011</loc>
+	<loc>https://shop.glass-express.ua/rio-sdn-2011-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/rio-2006-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/rio-2011-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/rio-hb-2014-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/rio-sdn-2014-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/rio-sdn-hb-2017-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/sephia-ii-shuma</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/sephia-ii-shuma-1998-2004</loc>
@@ -2560,49 +2530,25 @@
 	<loc>https://shop.glass-express.ua/sorento</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/sorento-2002-2006</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/sorento-2006-2009</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/sorento-2010-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/sorento-2013-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/sorento-2015-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/sorento-2018</loc>
+	<loc>https://shop.glass-express.ua/sorento-2010-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/soul</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/soul-2009-2014</loc>
@@ -2626,61 +2572,31 @@
 	<loc>https://shop.glass-express.ua/sportage</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/sportage-je-2004-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/sportage-je-2008-2010</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/sportage-sl-2010-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/sportage-ql-2015-2018</loc>
+	<loc>https://shop.glass-express.ua/sportage-je-2004-2010</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/sportage-ql-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/sportage-k00-1995-2003</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/stonic</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/stonic-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/venga</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/venga-2009-2017</loc>
@@ -2692,43 +2608,31 @@
 	<loc>https://shop.glass-express.ua/lancia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/thema</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/thema-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/thema-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/land-rover</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/discovery-sport</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/discovery-sport-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/discovery</loc>
@@ -2737,64 +2641,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/discovery-2004-2009</loc>
+	<loc>https://shop.glass-express.ua/discovery-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/discovery-2009-2012</loc>
+	<loc>https://shop.glass-express.ua/discovery-2004-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/discovery-2004-2012</loc>
+	<loc>https://shop.glass-express.ua/range-rover-evoque-2011-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/discovery-2012-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/discovery-2014-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-evoque</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-evoque-2011-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-evoque-2012-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-evoque-2011-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-evoque-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/range-rover-sport</loc>
@@ -2806,19 +2668,13 @@
 	<loc>https://shop.glass-express.ua/range-rover-sport-2005-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-sport-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/range-rover-sport-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/range-rover</loc>
@@ -2827,58 +2683,28 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/range-rover-2010-2012</loc>
+	<loc>https://shop.glass-express.ua/117-cla-class-2013-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/range-rover-2007-2010</loc>
+	<loc>https://shop.glass-express.ua/range-rover-l405-2012-2021</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-2006-2007</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/range-rover-2002-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-l405-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-l405-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-l405-2012-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/range-rover-l405-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/lexus</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ct200h</loc>
@@ -2887,16 +2713,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ct200h-2011-2017</loc>
+	<loc>https://shop.glass-express.ua/ct200h-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ct200h-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/es</loc>
@@ -2905,28 +2725,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/gs-2013</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/es-2012-2019</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/es-2006-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/es-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/es-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/es-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/gs</loc>
@@ -2938,7 +2752,7 @@
 	<loc>https://shop.glass-express.ua/gs-2005-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/gx</loc>
@@ -2947,16 +2761,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/gx-470-2003-2009</loc>
+	<loc>https://shop.glass-express.ua/gx-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/gx-470-2006-2009</loc>
+	<loc>https://shop.glass-express.ua/gx-2003-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/is</loc>
@@ -2965,22 +2779,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/is-2005-2013</loc>
+	<loc>https://shop.glass-express.ua/is-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/is-2013-2016</loc>
+	<loc>https://shop.glass-express.ua/is-2005-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/is-2016-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ls</loc>
@@ -2989,16 +2797,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ls-460-2007-2013</loc>
+	<loc>https://shop.glass-express.ua/ls-2007-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ls-460-2013-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/lx</loc>
@@ -3007,40 +2809,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/lx-470-2001-2008</loc>
+	<loc>https://shop.glass-express.ua/mazda-2-dj-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/lx-470-1998-2001</loc>
+	<loc>https://shop.glass-express.ua/lx-2008</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/lx-570-2008-2015</loc>
+	<loc>https://shop.glass-express.ua/lx-1998-2007</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/lx-570-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/lx-570-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/lx-570-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/nx</loc>
@@ -3049,16 +2833,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/nx-2014-2017</loc>
+	<loc>https://shop.glass-express.ua/117-cla-class</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/nx-2017</loc>
+	<loc>https://shop.glass-express.ua/nx-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/rx</loc>
@@ -3067,52 +2851,40 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rx-2004-2008</loc>
+	<loc>https://shop.glass-express.ua/rx-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rx-2009-2012</loc>
+	<loc>https://shop.glass-express.ua/rx-2009-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rx-2012-2015</loc>
+	<loc>https://shop.glass-express.ua/rx-2003-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rx-2015-2020</loc>
+	<loc>https://shop.glass-express.ua/rx-1998-2003</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rx-2015-2016</loc>
+	<loc>https://shop.glass-express.ua/rc-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/rx-2017-2020</loc>
+	<loc>https://shop.glass-express.ua/rc</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/rx-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/rx-1999-2003</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ux</loc>
@@ -3121,16 +2893,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ux-2019</loc>
+	<loc>https://shop.glass-express.ua/ux-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/lifan</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/620</loc>
@@ -3148,7 +2920,7 @@
 	<loc>https://shop.glass-express.ua/lincoln</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/mkc</loc>
@@ -3190,19 +2962,13 @@
 	<loc>https://shop.glass-express.ua/man</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/f90-f2000</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/f90-f2000-1986-2001</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-28</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/f90-m90-m2000</loc>
@@ -3257,6 +3023,12 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-04-30</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/mazda-3-bm-sdn-hb-2013-2019</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/mazda-xedos</loc>
@@ -3439,12 +3211,6 @@
 	<lastmod>2021-12-27</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/mazda-3-bm-sdn-hb-2013-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-27</lastmod>
-</url>
-<url>
 	<loc>https://shop.glass-express.ua/mazda-3-bp-hb-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -3526,7 +3292,7 @@
 	<loc>https://shop.glass-express.ua/mercedes-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/809-814-1114</loc>
@@ -3562,7 +3328,7 @@
 	<loc>https://shop.glass-express.ua/mercedes</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/123</loc>
@@ -3937,6 +3703,12 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/f90-f2000-1986-2001</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/vito-w639-2003-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -3952,7 +3724,7 @@
 	<loc>https://shop.glass-express.ua/mg</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/550-2008</loc>
@@ -3982,7 +3754,7 @@
 	<loc>https://shop.glass-express.ua/mini</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/paceman</loc>
@@ -4012,7 +3784,7 @@
 	<loc>https://shop.glass-express.ua/mitsubishi-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/canter</loc>
@@ -4024,7 +3796,7 @@
 	<loc>https://shop.glass-express.ua/mitsubishi</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/asx</loc>
@@ -4279,6 +4051,132 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/nissan</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/almera</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/almera-n16-2000-2006</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/almera-n15-1995-1999</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/almera-clasic-b10-2006-2013</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/altima</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/altima-2013-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/altima-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/interstar</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/interstar-2003-2010</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/juke</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/juke-2010-2019</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/kubistar</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/kubistar-2003-2009</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/leaf</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/leaf-2011-2017</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/leaf-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/maxima</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/maxima-a32-1995-2000</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/maxima-a36-2016</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/maxima-qx-a33-2000-2006</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/en/q3-2011-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -4405,10 +4303,10 @@
 	<lastmod>2023-03-06</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/fusion-2012-2019</loc>
+	<loc>https://shop.glass-express.ua/en/fusion-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2023-03-06</lastmod>
+	<lastmod>2023-04-06</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/ulysse-1994-2002</loc>
@@ -4969,6 +4867,12 @@
 	<lastmod>2023-03-08</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/en/k5-2011-2015</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/en/insight-2009-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -4981,10 +4885,22 @@
 	<lastmod>2023-03-16</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/en/magentis-2001-2006</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/en/jazz-2001-2008</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-03-08</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/optima-2011-2015</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/pilot-2008-2015</loc>
@@ -5003,6 +4919,72 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-03-08</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/picanto-2004-2011</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/pro-ceed-2012-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/pro-ceed</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/pro-ceed-2007-2012</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/rio-hb-2011-2017</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/rio-2000-2005</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/sorento-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/sorento-2002-2009</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/sportage-ql-2015-2021</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/sportage-k00-1995-2003</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/stonic-2017</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/scudo</loc>
@@ -5104,7 +5086,7 @@
 	<loc>https://shop.glass-express.ua/en/ford-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/cargo</loc>
@@ -5122,7 +5104,7 @@
 	<loc>https://shop.glass-express.ua/en/ford</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/c-max</loc>
@@ -5281,10 +5263,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/fusion-2019</loc>
+	<loc>https://shop.glass-express.ua/en/fusion-2012-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2023-03-06</lastmod>
+	<lastmod>2023-04-06</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/galaxy</loc>
@@ -5446,7 +5428,7 @@
 	<loc>https://shop.glass-express.ua/en/foton</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/bj1043-1049</loc>
@@ -5464,7 +5446,7 @@
 	<loc>https://shop.glass-express.ua/en/geely</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/ck-ck2</loc>
@@ -5548,7 +5530,7 @@
 	<loc>https://shop.glass-express.ua/en/gmc</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/terrain</loc>
@@ -5560,7 +5542,7 @@
 	<loc>https://shop.glass-express.ua/en/great-wall</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/hover</loc>
@@ -5608,7 +5590,7 @@
 	<loc>https://shop.glass-express.ua/en/honda</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/accord</loc>
@@ -5842,7 +5824,7 @@
 	<loc>https://shop.glass-express.ua/en/hyundai</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/accent</loc>
@@ -6118,7 +6100,7 @@
 	<loc>https://shop.glass-express.ua/en/infiniti</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/ex</loc>
@@ -6220,7 +6202,7 @@
 	<loc>https://shop.glass-express.ua/en/isuzu</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/nkr-nhr</loc>
@@ -6244,7 +6226,7 @@
 	<loc>https://shop.glass-express.ua/en/iveco</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/daily</loc>
@@ -6292,7 +6274,7 @@
 	<loc>https://shop.glass-express.ua/en/jaguar</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/e-pace</loc>
@@ -6322,7 +6304,7 @@
 	<loc>https://shop.glass-express.ua/en/jeep</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/cherokee</loc>
@@ -6406,19 +6388,19 @@
 	<loc>https://shop.glass-express.ua/en/kia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/cadenza</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/carens</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/carens-2013</loc>
@@ -6430,13 +6412,13 @@
 	<loc>https://shop.glass-express.ua/en/carnival</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/ceed</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/ceed-2012-2018</loc>
@@ -6448,7 +6430,7 @@
 	<loc>https://shop.glass-express.ua/en/cerato-koup</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/cerato-koup-2009-2012</loc>
@@ -6460,7 +6442,7 @@
 	<loc>https://shop.glass-express.ua/en/cerato</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/cerato-2013-2018</loc>
@@ -6484,7 +6466,7 @@
 	<loc>https://shop.glass-express.ua/en/clarus</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/clarus-i-1996-2001</loc>
@@ -6496,7 +6478,7 @@
 	<loc>https://shop.glass-express.ua/en/forte</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/forte-2013-2016</loc>
@@ -6514,37 +6496,19 @@
 	<loc>https://shop.glass-express.ua/en/k5</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/k5-2011-2013</loc>
+	<loc>https://shop.glass-express.ua/en/k5-2016-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/k5-2013-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/k5-2016-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/k5-2018-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/k7</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/k7-2016-2019</loc>
@@ -6556,43 +6520,37 @@
 	<loc>https://shop.glass-express.ua/en/magentis</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/magentis-2003-2006</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/magentis-2006-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/magentis-2009-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/magentis-2006-2008</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/mohave</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/mohave-2008-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/niro</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/niro-2016</loc>
@@ -6604,61 +6562,31 @@
 	<loc>https://shop.glass-express.ua/en/optima</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/optima-2011-2013</loc>
+	<loc>https://shop.glass-express.ua/en/optima-2016-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/optima-2013-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/optima-2016-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/optima-2018-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/picanto</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/picanto-2004-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/picanto-2008-2011</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/picanto-2011-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/pregio</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/pregio-1997-2006</loc>
@@ -6667,100 +6595,40 @@
 	<lastmod>2022-01-19</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/pro-ceed</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/pro-ceed-2007-2009</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/pro-ceed-2009-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/pro-ceed-2012-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/pro-ceed-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/pro-ceed-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
 	<loc>https://shop.glass-express.ua/en/rio</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rio-2000-2005</loc>
+	<loc>https://shop.glass-express.ua/en/rio-hb-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rio-2006-2008</loc>
+	<loc>https://shop.glass-express.ua/en/rio-sdn-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rio-2009-2011</loc>
+	<loc>https://shop.glass-express.ua/en/rio-sdn-2011-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/rio-2006-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/rio-2011-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/rio-hb-2014-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/rio-sdn-2014-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/rio-sdn-hb-2017-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/sephia-ii-shuma</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/sephia-ii-shuma-1998-2004</loc>
@@ -6772,49 +6640,25 @@
 	<loc>https://shop.glass-express.ua/en/sorento</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/sorento-2002-2006</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/sorento-2006-2009</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/sorento-2010-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/sorento-2013-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/sorento-2015-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/sorento-2018</loc>
+	<loc>https://shop.glass-express.ua/en/sorento-2010-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/soul</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/soul-2009-2014</loc>
@@ -6838,61 +6682,31 @@
 	<loc>https://shop.glass-express.ua/en/sportage</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/sportage-je-2004-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/sportage-je-2008-2010</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/sportage-sl-2010-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/sportage-ql-2015-2018</loc>
+	<loc>https://shop.glass-express.ua/en/sportage-je-2004-2010</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/sportage-ql-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/sportage-k00-1995-2003</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/stonic</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/stonic-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/venga</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/venga-2009-2017</loc>
@@ -6904,43 +6718,31 @@
 	<loc>https://shop.glass-express.ua/en/lancia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/thema</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/thema-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/thema-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/land-rover</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/discovery-sport</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/discovery-sport-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/discovery</loc>
@@ -6949,64 +6751,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/discovery-2004-2009</loc>
+	<loc>https://shop.glass-express.ua/en/discovery-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/discovery-2009-2012</loc>
+	<loc>https://shop.glass-express.ua/en/discovery-2004-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/discovery-2004-2012</loc>
+	<loc>https://shop.glass-express.ua/en/range-rover-evoque-2011-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/discovery-2012-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/discovery-2014-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-evoque</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-evoque-2011-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-evoque-2012-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-evoque-2011-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-evoque-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/range-rover-sport</loc>
@@ -7018,19 +6778,13 @@
 	<loc>https://shop.glass-express.ua/en/range-rover-sport-2005-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-sport-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/range-rover-sport-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/range-rover</loc>
@@ -7039,58 +6793,28 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/range-rover-2010-2012</loc>
+	<loc>https://shop.glass-express.ua/en/117-cla-class-2013-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/range-rover-2007-2010</loc>
+	<loc>https://shop.glass-express.ua/en/range-rover-l405-2012-2021</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-2006-2007</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/range-rover-2002-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-l405-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-l405-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-l405-2012-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/range-rover-l405-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/lexus</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/ct200h</loc>
@@ -7099,16 +6823,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/ct200h-2011-2017</loc>
+	<loc>https://shop.glass-express.ua/en/ct200h-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/ct200h-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/es</loc>
@@ -7117,28 +6835,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/en/gs-2013</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/es-2012-2019</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/en/es-2006-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/es-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/es-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/es-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/gs</loc>
@@ -7150,7 +6862,7 @@
 	<loc>https://shop.glass-express.ua/en/gs-2005-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/gx</loc>
@@ -7159,16 +6871,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/gx-470-2003-2009</loc>
+	<loc>https://shop.glass-express.ua/en/gx-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/gx-470-2006-2009</loc>
+	<loc>https://shop.glass-express.ua/en/gx-2003-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/is</loc>
@@ -7177,22 +6889,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/is-2005-2013</loc>
+	<loc>https://shop.glass-express.ua/en/is-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/is-2013-2016</loc>
+	<loc>https://shop.glass-express.ua/en/is-2005-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/is-2016-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/ls</loc>
@@ -7201,16 +6907,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/ls-460-2007-2013</loc>
+	<loc>https://shop.glass-express.ua/en/ls-2007-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/ls-460-2013-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/lx</loc>
@@ -7219,40 +6919,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/lx-470-2001-2008</loc>
+	<loc>https://shop.glass-express.ua/en/mazda-2-dj-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/lx-470-1998-2001</loc>
+	<loc>https://shop.glass-express.ua/en/lx-2008</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/lx-570-2008-2015</loc>
+	<loc>https://shop.glass-express.ua/en/lx-1998-2007</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/lx-570-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/lx-570-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/lx-570-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/nx</loc>
@@ -7261,16 +6943,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/nx-2014-2017</loc>
+	<loc>https://shop.glass-express.ua/en/117-cla-class</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/nx-2017</loc>
+	<loc>https://shop.glass-express.ua/en/nx-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/rx</loc>
@@ -7279,52 +6961,40 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rx-2004-2008</loc>
+	<loc>https://shop.glass-express.ua/en/rx-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rx-2009-2012</loc>
+	<loc>https://shop.glass-express.ua/en/rx-2009-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rx-2012-2015</loc>
+	<loc>https://shop.glass-express.ua/en/rx-2003-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rx-2015-2020</loc>
+	<loc>https://shop.glass-express.ua/en/rx-1998-2003</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rx-2015-2016</loc>
+	<loc>https://shop.glass-express.ua/en/rc-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/rx-2017-2020</loc>
+	<loc>https://shop.glass-express.ua/en/rc</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/rx-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/rx-1999-2003</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/ux</loc>
@@ -7333,16 +7003,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/ux-2019</loc>
+	<loc>https://shop.glass-express.ua/en/ux-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/lifan</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/620</loc>
@@ -7360,7 +7030,7 @@
 	<loc>https://shop.glass-express.ua/en/lincoln</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/mkc</loc>
@@ -7402,19 +7072,13 @@
 	<loc>https://shop.glass-express.ua/en/man</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/f90-f2000</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/f90-f2000-1986-2001</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-28</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/f90-m90-m2000</loc>
@@ -7469,6 +7133,12 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-04-30</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/mazda-3-bm-sdn-hb-2013-2019</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/mazda-xedos</loc>
@@ -7651,12 +7321,6 @@
 	<lastmod>2021-12-27</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/mazda-3-bm-sdn-hb-2013-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-27</lastmod>
-</url>
-<url>
 	<loc>https://shop.glass-express.ua/en/mazda-3-bp-hb-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -7738,7 +7402,7 @@
 	<loc>https://shop.glass-express.ua/en/mercedes-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/809-814-1114</loc>
@@ -7774,7 +7438,7 @@
 	<loc>https://shop.glass-express.ua/en/mercedes</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/123</loc>
@@ -8149,6 +7813,12 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/en/f90-f2000-1986-2001</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/en/vito-w639-2003-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -8164,7 +7834,7 @@
 	<loc>https://shop.glass-express.ua/en/mg</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/550-2008</loc>
@@ -8194,7 +7864,7 @@
 	<loc>https://shop.glass-express.ua/en/mini</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/paceman</loc>
@@ -8224,7 +7894,7 @@
 	<loc>https://shop.glass-express.ua/en/mitsubishi-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/canter</loc>
@@ -8236,7 +7906,7 @@
 	<loc>https://shop.glass-express.ua/en/mitsubishi</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/asx</loc>
@@ -8491,6 +8161,132 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/en/nissan</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/almera</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/almera-n16-2000-2006</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/almera-n15-1995-1999</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/almera-clasic-b10-2006-2013</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/altima</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/altima-2013-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/altima-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/interstar</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/interstar-2003-2010</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/juke</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/juke-2010-2019</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/kubistar</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/kubistar-2003-2009</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/leaf</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/leaf-2011-2017</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/leaf-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/maxima</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2021-12-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/maxima-a32-1995-2000</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/maxima-a36-2016</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/maxima-qx-a33-2000-2006</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/ua/q3-2011-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -8617,10 +8413,10 @@
 	<lastmod>2023-03-06</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/fusion-2012-2019</loc>
+	<loc>https://shop.glass-express.ua/ua/fusion-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2023-03-06</lastmod>
+	<lastmod>2023-04-06</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/ulysse-1994-2002</loc>
@@ -9181,6 +8977,12 @@
 	<lastmod>2023-03-08</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/ua/k5-2011-2015</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/ua/insight-2009-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -9193,10 +8995,22 @@
 	<lastmod>2023-03-16</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/ua/magentis-2001-2006</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/ua/jazz-2001-2008</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-03-08</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/optima-2011-2015</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/pilot-2008-2015</loc>
@@ -9215,6 +9029,72 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-03-08</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/picanto-2004-2011</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/pro-ceed-2012-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/pro-ceed</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/pro-ceed-2007-2012</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/rio-hb-2011-2017</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/rio-2000-2005</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/sorento-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/sorento-2002-2009</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/sportage-ql-2015-2021</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/sportage-k00-1995-2003</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/stonic-2017</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/scudo</loc>
@@ -9316,7 +9196,7 @@
 	<loc>https://shop.glass-express.ua/ua/ford-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/cargo</loc>
@@ -9334,7 +9214,7 @@
 	<loc>https://shop.glass-express.ua/ua/ford</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/c-max</loc>
@@ -9493,10 +9373,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/fusion-2019</loc>
+	<loc>https://shop.glass-express.ua/ua/fusion-2012-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2023-03-06</lastmod>
+	<lastmod>2023-04-06</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/galaxy</loc>
@@ -9658,7 +9538,7 @@
 	<loc>https://shop.glass-express.ua/ua/foton</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/bj1043-1049</loc>
@@ -9676,7 +9556,7 @@
 	<loc>https://shop.glass-express.ua/ua/geely</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/ck-ck2</loc>
@@ -9760,7 +9640,7 @@
 	<loc>https://shop.glass-express.ua/ua/gmc</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/terrain</loc>
@@ -9772,7 +9652,7 @@
 	<loc>https://shop.glass-express.ua/ua/great-wall</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/hover</loc>
@@ -9820,7 +9700,7 @@
 	<loc>https://shop.glass-express.ua/ua/honda</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/accord</loc>
@@ -10054,7 +9934,7 @@
 	<loc>https://shop.glass-express.ua/ua/hyundai</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/accent</loc>
@@ -10330,7 +10210,7 @@
 	<loc>https://shop.glass-express.ua/ua/infiniti</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/ex</loc>
@@ -10432,7 +10312,7 @@
 	<loc>https://shop.glass-express.ua/ua/isuzu</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/nkr-nhr</loc>
@@ -10456,7 +10336,7 @@
 	<loc>https://shop.glass-express.ua/ua/iveco</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/daily</loc>
@@ -10504,7 +10384,7 @@
 	<loc>https://shop.glass-express.ua/ua/jaguar</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/e-pace</loc>
@@ -10534,7 +10414,7 @@
 	<loc>https://shop.glass-express.ua/ua/jeep</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/cherokee</loc>
@@ -10618,19 +10498,19 @@
 	<loc>https://shop.glass-express.ua/ua/kia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/cadenza</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/carens</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/carens-2013</loc>
@@ -10642,13 +10522,13 @@
 	<loc>https://shop.glass-express.ua/ua/carnival</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/ceed</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/ceed-2012-2018</loc>
@@ -10660,7 +10540,7 @@
 	<loc>https://shop.glass-express.ua/ua/cerato-koup</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/cerato-koup-2009-2012</loc>
@@ -10672,7 +10552,7 @@
 	<loc>https://shop.glass-express.ua/ua/cerato</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/cerato-2013-2018</loc>
@@ -10696,7 +10576,7 @@
 	<loc>https://shop.glass-express.ua/ua/clarus</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/clarus-i-1996-2001</loc>
@@ -10708,7 +10588,7 @@
 	<loc>https://shop.glass-express.ua/ua/forte</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/forte-2013-2016</loc>
@@ -10726,37 +10606,19 @@
 	<loc>https://shop.glass-express.ua/ua/k5</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/k5-2011-2013</loc>
+	<loc>https://shop.glass-express.ua/ua/k5-2016-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/k5-2013-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/k5-2016-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/k5-2018-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/k7</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/k7-2016-2019</loc>
@@ -10768,43 +10630,37 @@
 	<loc>https://shop.glass-express.ua/ua/magentis</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/magentis-2003-2006</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/magentis-2006-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/magentis-2009-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/magentis-2006-2008</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/mohave</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/mohave-2008-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/niro</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/niro-2016</loc>
@@ -10816,61 +10672,31 @@
 	<loc>https://shop.glass-express.ua/ua/optima</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/optima-2011-2013</loc>
+	<loc>https://shop.glass-express.ua/ua/optima-2016-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/optima-2013-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/optima-2016-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/optima-2018-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/picanto</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/picanto-2004-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/picanto-2008-2011</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/picanto-2011-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/pregio</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/pregio-1997-2006</loc>
@@ -10879,100 +10705,40 @@
 	<lastmod>2022-01-19</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/pro-ceed</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/pro-ceed-2007-2009</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/pro-ceed-2009-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/pro-ceed-2012-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/pro-ceed-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/pro-ceed-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
 	<loc>https://shop.glass-express.ua/ua/rio</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rio-2000-2005</loc>
+	<loc>https://shop.glass-express.ua/ua/rio-hb-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rio-2006-2008</loc>
+	<loc>https://shop.glass-express.ua/ua/rio-sdn-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rio-2009-2011</loc>
+	<loc>https://shop.glass-express.ua/ua/rio-sdn-2011-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/rio-2006-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/rio-2011-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-19</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/rio-hb-2014-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/rio-sdn-2014-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/rio-sdn-hb-2017-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/sephia-ii-shuma</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/sephia-ii-shuma-1998-2004</loc>
@@ -10984,49 +10750,25 @@
 	<loc>https://shop.glass-express.ua/ua/sorento</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/sorento-2002-2006</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/sorento-2006-2009</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/sorento-2010-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/sorento-2013-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/sorento-2015-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/sorento-2018</loc>
+	<loc>https://shop.glass-express.ua/ua/sorento-2010-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/soul</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/soul-2009-2014</loc>
@@ -11050,61 +10792,31 @@
 	<loc>https://shop.glass-express.ua/ua/sportage</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/sportage-je-2004-2008</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/sportage-je-2008-2010</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/sportage-sl-2010-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/sportage-ql-2015-2018</loc>
+	<loc>https://shop.glass-express.ua/ua/sportage-je-2004-2010</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/sportage-ql-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/sportage-k00-1995-2003</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/stonic</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/stonic-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-20</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/venga</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/venga-2009-2017</loc>
@@ -11116,43 +10828,31 @@
 	<loc>https://shop.glass-express.ua/ua/lancia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/thema</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/thema-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/thema-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/land-rover</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/discovery-sport</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/discovery-sport-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/discovery</loc>
@@ -11161,64 +10861,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/discovery-2004-2009</loc>
+	<loc>https://shop.glass-express.ua/ua/discovery-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/discovery-2009-2012</loc>
+	<loc>https://shop.glass-express.ua/ua/discovery-2004-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/discovery-2004-2012</loc>
+	<loc>https://shop.glass-express.ua/ua/range-rover-evoque-2011-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/discovery-2012-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/discovery-2014-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-evoque</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-evoque-2011-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-evoque-2012-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-evoque-2011-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-evoque-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/range-rover-sport</loc>
@@ -11230,19 +10888,13 @@
 	<loc>https://shop.glass-express.ua/ua/range-rover-sport-2005-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-sport-2014</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/range-rover-sport-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/range-rover</loc>
@@ -11251,58 +10903,28 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-2010-2012</loc>
+	<loc>https://shop.glass-express.ua/ua/117-cla-class-2013-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-2007-2010</loc>
+	<loc>https://shop.glass-express.ua/ua/range-rover-l405-2012-2021</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-2006-2007</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/range-rover-2002-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-l405-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-l405-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-l405-2012-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/range-rover-l405-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/lexus</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/ct200h</loc>
@@ -11311,16 +10933,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/ct200h-2011-2017</loc>
+	<loc>https://shop.glass-express.ua/ua/ct200h-2011</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/ct200h-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/es</loc>
@@ -11329,28 +10945,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/ua/gs-2013</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/es-2012-2019</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/ua/es-2006-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/es-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/es-2015-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/es-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/gs</loc>
@@ -11362,7 +10972,7 @@
 	<loc>https://shop.glass-express.ua/ua/gs-2005-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/gx</loc>
@@ -11371,16 +10981,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/gx-470-2003-2009</loc>
+	<loc>https://shop.glass-express.ua/ua/gx-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/gx-470-2006-2009</loc>
+	<loc>https://shop.glass-express.ua/ua/gx-2003-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/is</loc>
@@ -11389,22 +10999,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/is-2005-2013</loc>
+	<loc>https://shop.glass-express.ua/ua/is-2013</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/is-2013-2016</loc>
+	<loc>https://shop.glass-express.ua/ua/is-2005-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/is-2016-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/ls</loc>
@@ -11413,16 +11017,10 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/ls-460-2007-2013</loc>
+	<loc>https://shop.glass-express.ua/ua/ls-2007-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/ls-460-2013-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/lx</loc>
@@ -11431,40 +11029,22 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/lx-470-2001-2008</loc>
+	<loc>https://shop.glass-express.ua/ua/mazda-2-dj-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/lx-470-1998-2001</loc>
+	<loc>https://shop.glass-express.ua/ua/lx-2008</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/lx-570-2008-2015</loc>
+	<loc>https://shop.glass-express.ua/ua/lx-1998-2007</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/lx-570-2012-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/lx-570-2015</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/lx-570-2017</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/nx</loc>
@@ -11473,16 +11053,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/nx-2014-2017</loc>
+	<loc>https://shop.glass-express.ua/ua/117-cla-class</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/nx-2017</loc>
+	<loc>https://shop.glass-express.ua/ua/nx-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/rx</loc>
@@ -11491,52 +11071,40 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rx-2004-2008</loc>
+	<loc>https://shop.glass-express.ua/ua/rx-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rx-2009-2012</loc>
+	<loc>https://shop.glass-express.ua/ua/rx-2009-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rx-2012-2015</loc>
+	<loc>https://shop.glass-express.ua/ua/rx-2003-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rx-2015-2020</loc>
+	<loc>https://shop.glass-express.ua/ua/rx-1998-2003</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rx-2015-2016</loc>
+	<loc>https://shop.glass-express.ua/ua/rc-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/rx-2017-2020</loc>
+	<loc>https://shop.glass-express.ua/ua/rc</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/rx-2020</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/rx-1999-2003</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/ux</loc>
@@ -11545,16 +11113,16 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/ux-2019</loc>
+	<loc>https://shop.glass-express.ua/ua/ux-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>1970-01-01</lastmod>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/lifan</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/620</loc>
@@ -11572,7 +11140,7 @@
 	<loc>https://shop.glass-express.ua/ua/lincoln</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/mkc</loc>
@@ -11614,19 +11182,13 @@
 	<loc>https://shop.glass-express.ua/ua/man</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/f90-f2000</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/f90-f2000-1986-2001</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-28</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/f90-m90-m2000</loc>
@@ -11681,6 +11243,12 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-04-30</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/mazda-3-bm-sdn-hb-2013-2019</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/mazda-xedos</loc>
@@ -11863,12 +11431,6 @@
 	<lastmod>2021-12-27</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/mazda-3-bm-sdn-hb-2013-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-27</lastmod>
-</url>
-<url>
 	<loc>https://shop.glass-express.ua/ua/mazda-3-bp-hb-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -11950,7 +11512,7 @@
 	<loc>https://shop.glass-express.ua/ua/mercedes-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/809-814-1114</loc>
@@ -11986,7 +11548,7 @@
 	<loc>https://shop.glass-express.ua/ua/mercedes</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/123</loc>
@@ -12361,6 +11923,12 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/ua/f90-f2000-1986-2001</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/ua/vito-w639-2003-2014</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -12376,7 +11944,7 @@
 	<loc>https://shop.glass-express.ua/ua/mg</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/550-2008</loc>
@@ -12406,7 +11974,7 @@
 	<loc>https://shop.glass-express.ua/ua/mini</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/paceman</loc>
@@ -12436,7 +12004,7 @@
 	<loc>https://shop.glass-express.ua/ua/mitsubishi-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/canter</loc>
@@ -12448,7 +12016,7 @@
 	<loc>https://shop.glass-express.ua/ua/mitsubishi</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/asx</loc>
@@ -12703,127 +12271,127 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/nissan</loc>
+	<loc>https://shop.glass-express.ua/ua/nissan</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/almera</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/almera</loc>
+	<loc>https://shop.glass-express.ua/ua/almera-n16-2000-2006</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/almera-n15-1995-1999</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/almera-clasic-b10-2006-2013</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/altima</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/almera-n16-2000-2006</loc>
+	<loc>https://shop.glass-express.ua/ua/altima-2013-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/almera-n15-1995-1999</loc>
+	<loc>https://shop.glass-express.ua/ua/altima-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/almera-clasic-b10-2006-2013</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/altima</loc>
+	<loc>https://shop.glass-express.ua/ua/interstar</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/altima-2013-2018</loc>
+	<loc>https://shop.glass-express.ua/ua/interstar-2003-2010</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/altima-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/interstar</loc>
+	<loc>https://shop.glass-express.ua/ua/juke</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/interstar-2003-2010</loc>
+	<loc>https://shop.glass-express.ua/ua/juke-2010-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/juke</loc>
+	<loc>https://shop.glass-express.ua/ua/kubistar</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/juke-2010-2019</loc>
+	<loc>https://shop.glass-express.ua/ua/kubistar-2003-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/kubistar</loc>
+	<loc>https://shop.glass-express.ua/ua/leaf</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/kubistar-2003-2009</loc>
+	<loc>https://shop.glass-express.ua/ua/leaf-2011-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/leaf</loc>
+	<loc>https://shop.glass-express.ua/ua/leaf-2018</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2022-01-05</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/maxima</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/leaf-2011-2017</loc>
+	<loc>https://shop.glass-express.ua/ua/maxima-a32-1995-2000</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/leaf-2018</loc>
+	<loc>https://shop.glass-express.ua/ua/maxima-a36-2016</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/maxima</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/maxima-a32-1995-2000</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/maxima-a36-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/maxima-qx-a33-2000-2006</loc>
+	<loc>https://shop.glass-express.ua/ua/maxima-qx-a33-2000-2006</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2022-01-05</lastmod>
@@ -13174,7 +12742,7 @@
 	<loc>https://shop.glass-express.ua/opel</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/agila</loc>
@@ -13516,7 +13084,7 @@
 	<loc>https://shop.glass-express.ua/peugeot</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/107-2005-2014</loc>
@@ -13840,7 +13408,7 @@
 	<loc>https://shop.glass-express.ua/subaru</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/justy</loc>
@@ -13942,7 +13510,7 @@
 	<loc>https://shop.glass-express.ua/suzuki</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/grand-vitara</loc>
@@ -14062,7 +13630,7 @@
 	<loc>https://shop.glass-express.ua/tesla</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/model-3</loc>
@@ -14110,7 +13678,7 @@
 	<loc>https://shop.glass-express.ua/toyota-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/dyna-wide</loc>
@@ -14128,7 +13696,7 @@
 	<loc>https://shop.glass-express.ua/toyota</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/4-runner</loc>
@@ -14854,7 +14422,7 @@
 	<loc>https://shop.glass-express.ua/volkswagen</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-16</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/amarok-2010</loc>
@@ -15382,7 +14950,7 @@
 	<loc>https://shop.glass-express.ua/volvo-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/fh</loc>
@@ -15442,7 +15010,7 @@
 	<loc>https://shop.glass-express.ua/volvo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/440-460</loc>
@@ -15694,7 +15262,7 @@
 	<loc>https://shop.glass-express.ua/vaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/1117-1118-1119-kalina</loc>
@@ -15748,7 +15316,7 @@
 	<loc>https://shop.glass-express.ua/lada</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/largus</loc>
@@ -15766,7 +15334,7 @@
 	<loc>https://shop.glass-express.ua/gaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/gazel</loc>
@@ -15784,7 +15352,7 @@
 	<loc>https://shop.glass-express.ua/zaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/1102-1105</loc>
@@ -15844,7 +15412,7 @@
 	<loc>https://shop.glass-express.ua/uaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/3163-patriot</loc>
@@ -15913,6 +15481,12 @@
 	<lastmod>2023-01-17</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/156-gla-class-2014-2020</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/v50</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -15943,10 +15517,22 @@
 	<lastmod>2021-12-16</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/discovery-sport</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/touran-2011-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-17</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/range-rover-evoque</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/t5-2003-2009</loc>
@@ -16186,7 +15772,7 @@
 	<loc>https://shop.glass-express.ua/porsche</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/cayenne</loc>
@@ -16222,7 +15808,7 @@
 	<loc>https://shop.glass-express.ua/ravon</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/r2</loc>
@@ -16240,7 +15826,7 @@
 	<loc>https://shop.glass-express.ua/renault-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/magnum</loc>
@@ -16294,7 +15880,7 @@
 	<loc>https://shop.glass-express.ua/renault</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/trafic-2002-2014</loc>
@@ -16546,7 +16132,7 @@
 	<loc>https://shop.glass-express.ua/rover</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/600</loc>
@@ -16564,7 +16150,7 @@
 	<loc>https://shop.glass-express.ua/samand</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/el-lx</loc>
@@ -16582,7 +16168,7 @@
 	<loc>https://shop.glass-express.ua/scania</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/series</loc>
@@ -16612,7 +16198,7 @@
 	<loc>https://shop.glass-express.ua/seat</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/alhambra</loc>
@@ -16777,130 +16363,112 @@
 	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/nissan</loc>
+	<loc>https://shop.glass-express.ua/tarraco</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/almera</loc>
+	<loc>https://shop.glass-express.ua/tarraco-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/almera-n16-2000-2006</loc>
+	<loc>https://shop.glass-express.ua/toledo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/almera-n15-1995-1999</loc>
+	<loc>https://shop.glass-express.ua/toledo-2005-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/almera-clasic-b10-2006-2013</loc>
+	<loc>https://shop.glass-express.ua/toledo-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/altima</loc>
+	<loc>https://shop.glass-express.ua/toledo-1991-1999</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/altima-2013-2018</loc>
+	<loc>https://shop.glass-express.ua/toledo-1999-2004</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/altima-2018</loc>
+	<loc>https://shop.glass-express.ua/skoda</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/interstar</loc>
+	<loc>https://shop.glass-express.ua/citigo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/interstar-2003-2010</loc>
+	<loc>https://shop.glass-express.ua/citigo-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/juke</loc>
+	<loc>https://shop.glass-express.ua/fabia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/juke-2010-2019</loc>
+	<loc>https://shop.glass-express.ua/favorit-forman</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/kubistar</loc>
+	<loc>https://shop.glass-express.ua/favorit-forman-1988-1995</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/kubistar-2003-2009</loc>
+	<loc>https://shop.glass-express.ua/felicia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/leaf</loc>
+	<loc>https://shop.glass-express.ua/felicia-1995-2001</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/leaf-2011-2017</loc>
+	<loc>https://shop.glass-express.ua/karoq</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/leaf-2018</loc>
+	<loc>https://shop.glass-express.ua/karoq-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/maxima</loc>
+	<loc>https://shop.glass-express.ua/kodiaq</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/maxima-a32-1995-2000</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/maxima-a36-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/maxima-qx-a33-2000-2006</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/micra</loc>
@@ -17248,7 +16816,7 @@
 	<loc>https://shop.glass-express.ua/en/opel</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/agila</loc>
@@ -17590,7 +17158,7 @@
 	<loc>https://shop.glass-express.ua/en/peugeot</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/107-2005-2014</loc>
@@ -17914,7 +17482,7 @@
 	<loc>https://shop.glass-express.ua/en/subaru</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/justy</loc>
@@ -18016,7 +17584,7 @@
 	<loc>https://shop.glass-express.ua/en/suzuki</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/grand-vitara</loc>
@@ -18136,7 +17704,7 @@
 	<loc>https://shop.glass-express.ua/en/tesla</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/model-3</loc>
@@ -18184,7 +17752,7 @@
 	<loc>https://shop.glass-express.ua/en/toyota-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/dyna-wide</loc>
@@ -18202,7 +17770,7 @@
 	<loc>https://shop.glass-express.ua/en/toyota</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/4-runner</loc>
@@ -18928,7 +18496,7 @@
 	<loc>https://shop.glass-express.ua/en/volkswagen</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-16</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/amarok-2010</loc>
@@ -19456,7 +19024,7 @@
 	<loc>https://shop.glass-express.ua/en/volvo-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/fh</loc>
@@ -19516,7 +19084,7 @@
 	<loc>https://shop.glass-express.ua/en/volvo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/440-460</loc>
@@ -19768,7 +19336,7 @@
 	<loc>https://shop.glass-express.ua/en/vaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/1117-1118-1119-kalina</loc>
@@ -19822,7 +19390,7 @@
 	<loc>https://shop.glass-express.ua/en/lada</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/largus</loc>
@@ -19840,7 +19408,7 @@
 	<loc>https://shop.glass-express.ua/en/gaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/gazel</loc>
@@ -19858,7 +19426,7 @@
 	<loc>https://shop.glass-express.ua/en/zaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/1102-1105</loc>
@@ -19918,7 +19486,7 @@
 	<loc>https://shop.glass-express.ua/en/uaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/3163-patriot</loc>
@@ -19987,6 +19555,12 @@
 	<lastmod>2023-01-17</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/en/156-gla-class-2014-2020</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/en/v50</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -20017,10 +19591,22 @@
 	<lastmod>2021-12-16</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/en/discovery-sport</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/en/touran-2011-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-17</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/range-rover-evoque</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/t5-2003-2009</loc>
@@ -20260,7 +19846,7 @@
 	<loc>https://shop.glass-express.ua/en/porsche</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/cayenne</loc>
@@ -20296,7 +19882,7 @@
 	<loc>https://shop.glass-express.ua/en/ravon</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/r2</loc>
@@ -20314,7 +19900,7 @@
 	<loc>https://shop.glass-express.ua/en/renault-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/magnum</loc>
@@ -20368,7 +19954,7 @@
 	<loc>https://shop.glass-express.ua/en/renault</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/trafic-2002-2014</loc>
@@ -20620,7 +20206,7 @@
 	<loc>https://shop.glass-express.ua/en/rover</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/600</loc>
@@ -20638,7 +20224,7 @@
 	<loc>https://shop.glass-express.ua/en/samand</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/el-lx</loc>
@@ -20656,7 +20242,7 @@
 	<loc>https://shop.glass-express.ua/en/scania</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/series</loc>
@@ -20686,7 +20272,7 @@
 	<loc>https://shop.glass-express.ua/en/seat</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/alhambra</loc>
@@ -20851,130 +20437,112 @@
 	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/nissan</loc>
+	<loc>https://shop.glass-express.ua/en/tarraco</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/almera</loc>
+	<loc>https://shop.glass-express.ua/en/tarraco-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/almera-n16-2000-2006</loc>
+	<loc>https://shop.glass-express.ua/en/toledo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/almera-n15-1995-1999</loc>
+	<loc>https://shop.glass-express.ua/en/toledo-2005-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/almera-clasic-b10-2006-2013</loc>
+	<loc>https://shop.glass-express.ua/en/toledo-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/altima</loc>
+	<loc>https://shop.glass-express.ua/en/toledo-1991-1999</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/altima-2013-2018</loc>
+	<loc>https://shop.glass-express.ua/en/toledo-1999-2004</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/altima-2018</loc>
+	<loc>https://shop.glass-express.ua/en/skoda</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/interstar</loc>
+	<loc>https://shop.glass-express.ua/en/citigo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/interstar-2003-2010</loc>
+	<loc>https://shop.glass-express.ua/en/citigo-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/juke</loc>
+	<loc>https://shop.glass-express.ua/en/fabia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/juke-2010-2019</loc>
+	<loc>https://shop.glass-express.ua/en/favorit-forman</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/kubistar</loc>
+	<loc>https://shop.glass-express.ua/en/favorit-forman-1988-1995</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/kubistar-2003-2009</loc>
+	<loc>https://shop.glass-express.ua/en/felicia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/leaf</loc>
+	<loc>https://shop.glass-express.ua/en/felicia-1995-2001</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/leaf-2011-2017</loc>
+	<loc>https://shop.glass-express.ua/en/karoq</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/leaf-2018</loc>
+	<loc>https://shop.glass-express.ua/en/karoq-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/maxima</loc>
+	<loc>https://shop.glass-express.ua/en/kodiaq</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/maxima-a32-1995-2000</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/maxima-a36-2016</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/maxima-qx-a33-2000-2006</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2022-01-05</lastmod>
+	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/micra</loc>
@@ -21322,7 +20890,7 @@
 	<loc>https://shop.glass-express.ua/ua/opel</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/agila</loc>
@@ -21664,7 +21232,7 @@
 	<loc>https://shop.glass-express.ua/ua/peugeot</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/107-2005-2014</loc>
@@ -21988,7 +21556,7 @@
 	<loc>https://shop.glass-express.ua/ua/subaru</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/justy</loc>
@@ -22090,7 +21658,7 @@
 	<loc>https://shop.glass-express.ua/ua/suzuki</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/grand-vitara</loc>
@@ -22210,7 +21778,7 @@
 	<loc>https://shop.glass-express.ua/ua/tesla</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/model-3</loc>
@@ -22258,7 +21826,7 @@
 	<loc>https://shop.glass-express.ua/ua/toyota-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/dyna-wide</loc>
@@ -22276,7 +21844,7 @@
 	<loc>https://shop.glass-express.ua/ua/toyota</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/4-runner</loc>
@@ -23002,7 +22570,7 @@
 	<loc>https://shop.glass-express.ua/ua/volkswagen</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-16</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/amarok-2010</loc>
@@ -23530,7 +23098,7 @@
 	<loc>https://shop.glass-express.ua/ua/volvo-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/fh</loc>
@@ -23590,7 +23158,7 @@
 	<loc>https://shop.glass-express.ua/ua/volvo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/440-460</loc>
@@ -23842,7 +23410,7 @@
 	<loc>https://shop.glass-express.ua/ua/vaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/1117-1118-1119-kalina</loc>
@@ -23896,7 +23464,7 @@
 	<loc>https://shop.glass-express.ua/ua/lada</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/largus</loc>
@@ -23914,7 +23482,7 @@
 	<loc>https://shop.glass-express.ua/ua/gaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/gazel</loc>
@@ -23932,7 +23500,7 @@
 	<loc>https://shop.glass-express.ua/ua/zaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/1102-1105</loc>
@@ -23992,7 +23560,7 @@
 	<loc>https://shop.glass-express.ua/ua/uaz</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/3163-patriot</loc>
@@ -24061,6 +23629,12 @@
 	<lastmod>2023-01-17</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/ua/156-gla-class-2014-2020</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/ua/v50</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -24091,10 +23665,22 @@
 	<lastmod>2021-12-16</lastmod>
 </url>
 <url>
+	<loc>https://shop.glass-express.ua/ua/discovery-sport</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-07</lastmod>
+</url>
+<url>
 	<loc>https://shop.glass-express.ua/ua/touran-2011-2015</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-17</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/range-rover-evoque</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-15</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/t5-2003-2009</loc>
@@ -24334,7 +23920,7 @@
 	<loc>https://shop.glass-express.ua/ua/porsche</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/cayenne</loc>
@@ -24370,7 +23956,7 @@
 	<loc>https://shop.glass-express.ua/ua/ravon</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/r2</loc>
@@ -24388,7 +23974,7 @@
 	<loc>https://shop.glass-express.ua/ua/renault-truck</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/magnum</loc>
@@ -24442,7 +24028,7 @@
 	<loc>https://shop.glass-express.ua/ua/renault</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/trafic-2002-2014</loc>
@@ -24694,7 +24280,7 @@
 	<loc>https://shop.glass-express.ua/ua/rover</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/600</loc>
@@ -24712,7 +24298,7 @@
 	<loc>https://shop.glass-express.ua/ua/samand</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/el-lx</loc>
@@ -24730,7 +24316,7 @@
 	<loc>https://shop.glass-express.ua/ua/scania</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/series</loc>
@@ -24760,7 +24346,7 @@
 	<loc>https://shop.glass-express.ua/ua/seat</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/alhambra</loc>
@@ -24925,109 +24511,109 @@
 	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/tarraco</loc>
+	<loc>https://shop.glass-express.ua/ua/tarraco</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/tarraco-2019</loc>
+	<loc>https://shop.glass-express.ua/ua/tarraco-2019</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/toledo</loc>
+	<loc>https://shop.glass-express.ua/ua/toledo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/toledo-2005-2009</loc>
+	<loc>https://shop.glass-express.ua/ua/toledo-2005-2009</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/toledo-2012</loc>
+	<loc>https://shop.glass-express.ua/ua/toledo-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/toledo-1991-1999</loc>
+	<loc>https://shop.glass-express.ua/ua/toledo-1991-1999</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/toledo-1999-2004</loc>
+	<loc>https://shop.glass-express.ua/ua/toledo-1999-2004</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-24</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/skoda</loc>
+	<loc>https://shop.glass-express.ua/ua/skoda</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-14</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/citigo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/citigo</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/citigo-2012</loc>
+	<loc>https://shop.glass-express.ua/ua/citigo-2012</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/fabia</loc>
+	<loc>https://shop.glass-express.ua/ua/fabia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/favorit-forman</loc>
+	<loc>https://shop.glass-express.ua/ua/favorit-forman</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/favorit-forman-1988-1995</loc>
+	<loc>https://shop.glass-express.ua/ua/favorit-forman-1988-1995</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/felicia</loc>
+	<loc>https://shop.glass-express.ua/ua/felicia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/felicia-1995-2001</loc>
+	<loc>https://shop.glass-express.ua/ua/felicia-1995-2001</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/karoq</loc>
+	<loc>https://shop.glass-express.ua/ua/karoq</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-15</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/karoq-2018</loc>
+	<loc>https://shop.glass-express.ua/ua/karoq-2018</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-23</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/kodiaq</loc>
+	<loc>https://shop.glass-express.ua/ua/kodiaq</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2021-12-15</lastmod>
@@ -25156,7 +24742,7 @@
 	<loc>https://shop.glass-express.ua/smart</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/fortwo</loc>
@@ -25186,7 +24772,7 @@
 	<loc>https://shop.glass-express.ua/ssangyong</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/actyon</loc>
@@ -25270,7 +24856,7 @@
 	<loc>https://shop.glass-express.ua/mazda</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-27</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/r19</loc>
@@ -25421,6 +25007,12 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-02-03</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/156-gla-class</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/300-2011</loc>
@@ -25804,7 +25396,7 @@
 	<loc>https://shop.glass-express.ua/acura</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/mdx</loc>
@@ -25858,7 +25450,7 @@
 	<loc>https://shop.glass-express.ua/audi</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/100</loc>
@@ -26080,7 +25672,7 @@
 	<loc>https://shop.glass-express.ua/bmw</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/1</loc>
@@ -26350,7 +25942,7 @@
 	<loc>https://shop.glass-express.ua/buick</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/encore</loc>
@@ -26374,7 +25966,7 @@
 	<loc>https://shop.glass-express.ua/byd</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/f3</loc>
@@ -26392,7 +25984,7 @@
 	<loc>https://shop.glass-express.ua/cadillac</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/escalade</loc>
@@ -26422,7 +26014,7 @@
 	<loc>https://shop.glass-express.ua/chery</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/a13</loc>
@@ -26560,7 +26152,7 @@
 	<loc>https://shop.glass-express.ua/chevrolet</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/aveo</loc>
@@ -26836,7 +26428,7 @@
 	<loc>https://shop.glass-express.ua/chrysler</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/200</loc>
@@ -26872,7 +26464,7 @@
 	<loc>https://shop.glass-express.ua/citroen</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/berlingo</loc>
@@ -27154,7 +26746,7 @@
 	<loc>https://shop.glass-express.ua/dacia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/7-e38-1994-2002</loc>
@@ -27226,7 +26818,7 @@
 	<loc>https://shop.glass-express.ua/daewoo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/espero</loc>
@@ -27304,7 +26896,7 @@
 	<loc>https://shop.glass-express.ua/daf</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/400</loc>
@@ -27370,7 +26962,7 @@
 	<loc>https://shop.glass-express.ua/daihatsu</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/sirion</loc>
@@ -27400,7 +26992,7 @@
 	<loc>https://shop.glass-express.ua/dodge</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/caliber</loc>
@@ -27490,7 +27082,7 @@
 	<loc>https://shop.glass-express.ua/fiat</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/500</loc>
@@ -27661,114 +27253,6 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/en/tarraco</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/tarraco-2019</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/toledo</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/toledo-2005-2009</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/toledo-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/toledo-1991-1999</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/toledo-1999-2004</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/skoda</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/citigo</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/citigo-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-23</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/fabia</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/favorit-forman</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/favorit-forman-1988-1995</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-23</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/felicia</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/felicia-1995-2001</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-23</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/karoq</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/karoq-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-23</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/en/kodiaq</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
 	<loc>https://shop.glass-express.ua/en/kodiaq-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -27892,7 +27376,7 @@
 	<loc>https://shop.glass-express.ua/en/smart</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/fortwo</loc>
@@ -27922,7 +27406,7 @@
 	<loc>https://shop.glass-express.ua/en/ssangyong</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/actyon</loc>
@@ -28006,7 +27490,7 @@
 	<loc>https://shop.glass-express.ua/en/mazda</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-27</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/r19</loc>
@@ -28157,6 +27641,12 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-02-03</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/en/156-gla-class</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/300-2011</loc>
@@ -28540,7 +28030,7 @@
 	<loc>https://shop.glass-express.ua/en/acura</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/mdx</loc>
@@ -28594,7 +28084,7 @@
 	<loc>https://shop.glass-express.ua/en/audi</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/100</loc>
@@ -28816,7 +28306,7 @@
 	<loc>https://shop.glass-express.ua/en/bmw</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/1</loc>
@@ -29086,7 +28576,7 @@
 	<loc>https://shop.glass-express.ua/en/buick</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/encore</loc>
@@ -29110,7 +28600,7 @@
 	<loc>https://shop.glass-express.ua/en/byd</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/f3</loc>
@@ -29128,7 +28618,7 @@
 	<loc>https://shop.glass-express.ua/en/cadillac</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/escalade</loc>
@@ -29158,7 +28648,7 @@
 	<loc>https://shop.glass-express.ua/en/chery</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/a13</loc>
@@ -29296,7 +28786,7 @@
 	<loc>https://shop.glass-express.ua/en/chevrolet</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/aveo</loc>
@@ -29572,7 +29062,7 @@
 	<loc>https://shop.glass-express.ua/en/chrysler</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/200</loc>
@@ -29608,7 +29098,7 @@
 	<loc>https://shop.glass-express.ua/en/citroen</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/berlingo</loc>
@@ -29890,7 +29380,7 @@
 	<loc>https://shop.glass-express.ua/en/dacia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/7-e38-1994-2002</loc>
@@ -29962,7 +29452,7 @@
 	<loc>https://shop.glass-express.ua/en/daewoo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/espero</loc>
@@ -30040,7 +29530,7 @@
 	<loc>https://shop.glass-express.ua/en/daf</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/400</loc>
@@ -30106,7 +29596,7 @@
 	<loc>https://shop.glass-express.ua/en/daihatsu</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/sirion</loc>
@@ -30136,7 +29626,7 @@
 	<loc>https://shop.glass-express.ua/en/dodge</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/caliber</loc>
@@ -30226,7 +29716,7 @@
 	<loc>https://shop.glass-express.ua/en/fiat</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/en/500</loc>
@@ -30397,114 +29887,6 @@
 	<lastmod>2021-12-14</lastmod>
 </url>
 <url>
-	<loc>https://shop.glass-express.ua/ua/tarraco</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/tarraco-2019</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/toledo</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/toledo-2005-2009</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/toledo-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/toledo-1991-1999</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/toledo-1999-2004</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-24</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/skoda</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/citigo</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/citigo-2012</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-23</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/fabia</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/favorit-forman</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/favorit-forman-1988-1995</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-23</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/felicia</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/felicia-1995-2001</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-23</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/karoq</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/karoq-2018</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-23</lastmod>
-</url>
-<url>
-	<loc>https://shop.glass-express.ua/ua/kodiaq</loc>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
-</url>
-<url>
 	<loc>https://shop.glass-express.ua/ua/kodiaq-2017</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
@@ -30628,7 +30010,7 @@
 	<loc>https://shop.glass-express.ua/ua/smart</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/fortwo</loc>
@@ -30658,7 +30040,7 @@
 	<loc>https://shop.glass-express.ua/ua/ssangyong</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-15</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/actyon</loc>
@@ -30742,7 +30124,7 @@
 	<loc>https://shop.glass-express.ua/ua/mazda</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-27</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/r19</loc>
@@ -30893,6 +30275,12 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
 	<lastmod>2023-02-03</lastmod>
+</url>
+<url>
+	<loc>https://shop.glass-express.ua/ua/156-gla-class</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+	<lastmod>2023-04-18</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/300-2011</loc>
@@ -31276,7 +30664,7 @@
 	<loc>https://shop.glass-express.ua/ua/acura</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/mdx</loc>
@@ -31330,7 +30718,7 @@
 	<loc>https://shop.glass-express.ua/ua/audi</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/100</loc>
@@ -31552,7 +30940,7 @@
 	<loc>https://shop.glass-express.ua/ua/bmw</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/1</loc>
@@ -31822,7 +31210,7 @@
 	<loc>https://shop.glass-express.ua/ua/buick</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/encore</loc>
@@ -31846,7 +31234,7 @@
 	<loc>https://shop.glass-express.ua/ua/byd</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/f3</loc>
@@ -31864,7 +31252,7 @@
 	<loc>https://shop.glass-express.ua/ua/cadillac</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/escalade</loc>
@@ -31894,7 +31282,7 @@
 	<loc>https://shop.glass-express.ua/ua/chery</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-12</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/a13</loc>
@@ -32032,7 +31420,7 @@
 	<loc>https://shop.glass-express.ua/ua/chevrolet</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/aveo</loc>
@@ -32308,7 +31696,7 @@
 	<loc>https://shop.glass-express.ua/ua/chrysler</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/200</loc>
@@ -32344,7 +31732,7 @@
 	<loc>https://shop.glass-express.ua/ua/citroen</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/berlingo</loc>
@@ -32626,7 +32014,7 @@
 	<loc>https://shop.glass-express.ua/ua/dacia</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-07</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/7-e38-1994-2002</loc>
@@ -32698,7 +32086,7 @@
 	<loc>https://shop.glass-express.ua/ua/daewoo</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/espero</loc>
@@ -32776,7 +32164,7 @@
 	<loc>https://shop.glass-express.ua/ua/daf</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/400</loc>
@@ -32842,7 +32230,7 @@
 	<loc>https://shop.glass-express.ua/ua/daihatsu</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/sirion</loc>
@@ -32872,7 +32260,7 @@
 	<loc>https://shop.glass-express.ua/ua/dodge</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/caliber</loc>
@@ -32962,7 +32350,7 @@
 	<loc>https://shop.glass-express.ua/ua/fiat</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2021-12-14</lastmod>
+	<lastmod>2023-04-14</lastmod>
 </url>
 <url>
 	<loc>https://shop.glass-express.ua/ua/500</loc>
