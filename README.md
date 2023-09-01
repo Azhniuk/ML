@@ -6,6 +6,5 @@ Stack, queue
 linear regression  
 How to spot the differences between two images
 RegEx
-NumPy   
-Pandas 
+NumPy, Pandas 
 Clustering (KMeans)
